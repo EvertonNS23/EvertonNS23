@@ -3,8 +3,6 @@
 
 I’m currently focused on building small web projects, learning responsive design with Bootstrap, and improving my JavaScript skills.  
 My goal is to grow step by step into a professional web developer while sharing my journey here on GitHub.
-"Atualmente estou focado em construir pequenos projetos web, aprender design responsivo com Bootstrap e melhorar minhas habilidades em JavaScript.  
-Meu objetivo é crescer passo a passo até me tornar um desenvolvedor web profissional, compartilhando minha jornada aqui no GitHub."
 
 
 ---
